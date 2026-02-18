@@ -314,7 +314,7 @@
         "}"
       ],
       "description": "auto function and trailing return"
-    }
+    },
     "tmeasure": {
       "prefix": "tmeasure",
       "body": [
